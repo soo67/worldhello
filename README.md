@@ -1,2 +1,2 @@
 # worldhello
-HelloWorld Project for Git/GitHub Tut 🌱✨✨
+Project for Git Tut 🌱✨✨
